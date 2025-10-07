@@ -1,4 +1,5 @@
-﻿namespace Base {
+﻿using System;
+namespace Base {
     class Company
     {
         string tittle;
